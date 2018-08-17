@@ -1,0 +1,21 @@
+{
+    "name": "webfactory/spyc",
+    "description": "A simple YAML loader/dumper class for PHP; forked to provide history versions of mustangostang/spyc",
+    "type": "library",
+    "keywords": [
+        "spyc",
+        "yaml",
+        "yml"
+    ],
+    "homepage": "https://github.com/webfactory/spyc/",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.1"
+    },
+    "autoload": {
+        "files": [ "spyc.php" ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.3.*@dev"
+    }
+}
