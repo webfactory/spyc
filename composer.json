@@ -1,5 +1,5 @@
 {
-    "name": "mustangostang/spyc",
+    "name": "webfactory/spyc",
     "description": "A simple YAML loader/dumper class for PHP",
     "type": "library",
     "keywords": [
@@ -7,11 +7,7 @@
         "yaml",
         "yml"
     ],
-    "homepage": "https://github.com/mustangostang/spyc/",
-    "authors" : [{
-        "name": "mustangostang",
-        "email": "vlad.andersen@gmail.com"
-    }],
+    "homepage": "https://github.com/webfactory/spyc/",
     "license": "MIT",
     "require": {
         "php": ">=5.3.1"
